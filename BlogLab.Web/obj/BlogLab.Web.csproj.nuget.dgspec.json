@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {}
+    "c:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {
+    "c:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "projectUniqueName": "c:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
         "projectName": "BlogLab.Web",
-        "projectPath": "C:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
+        "projectPath": "c:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
         "packagesPath": "C:\\Users\\developer03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\obj\\",
+        "outputPath": "c:\\Users\\developer03\\source\\repos\\BlogLab\\BlogLab.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\developer03\\AppData\\Roaming\\NuGet\\NuGet.Config",
